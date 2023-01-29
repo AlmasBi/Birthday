@@ -1,0 +1,36 @@
+.container {
+    position: absolute;
+    width: 800px;
+    height: 200px;
+    z-index: 15;
+    top: 50%;
+    left: 50%;
+    margin: -150px 0 0 -400px;
+    
+  }
+
+  .container-box{
+    display: inline-block;
+    margin-left: 35px;
+  }
+  .container-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    
+  }
+  .container-number{
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: bold;
+  }
+  .container-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    letter-spacing: 3px;
+
+  }
+  body{
+    background-color: #FFD700;
+  }
